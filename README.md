@@ -1,42 +1,49 @@
 # ML Project — 3D Balance Ball (Unity + ML-Agents)
 
-Un proiect de machine learning / reinforcement learning care folosește Unity și ML-Agents pentru a controla și menține echilibrul unei bile pe o platformă 3D.
+A machine learning / reinforcement learning project that uses Unity and ML-Agents to control and keep a ball balanced on a 3D platform.
 
-![Captură de ecran](Image.png)
-
----
-
-## Descriere
-
-Acest proiect implementează scenariul “Balance Ball” în 3D, folosind ML-Agents. Rolul agentului (bila) este de a învăța să rămână echilibrată pe o platformă înclinabilă, folosind forțe controlate.
-
-### Caracteristici principale
-
-- Interacțiunea cu Unity ML-Agents  
-- Politică de control bazată pe comportament învățat  
-- Scenarii de antrenare și evaluare  
-- Structură modulară (folderul `Project`, `config`, etc.)  
-
-### Structură fișiere
-
-- `Project/` — cod și scene Unity  
-- `config/` — fișiere de configurare pentru antrenare  
-- `results/` — rezultatele obținute în timpul antrenării  
-- `Image.png` — imagine reprezentativă (capture de ecran)  
-- `README.md` — fișierul acesta  
+![Screenshoot](Image.png)
 
 ---
 
-## Cum rulezi
+🧩 Description
 
-1. Clonează repository-ul  
-   ```bash
-   git clone https://github.com/Filip-Felix/ml_project.git
+This project implements the “3D Balance Ball” scenario using Unity ML-Agents.
+The agent (the ball) learns to stay balanced on a tilting platform by applying controlled forces based on its observations.
 
-2.Deschide proiectul în Unity
+🔍 Key Features
 
-3. Configurează setările ML-Agents (versiune, comportament, parametri)
+Integration with Unity ML-Agents
 
-4. Antrenează agentul (folosind comanda / scenariul corespunzător)
+Control policy based on learned behavior
 
-5. Observă rezultatele (în folderul results)
+Includes training and evaluation scenarios
+
+Modular project structure (Project, config, etc.)
+
+📁 Project Structure
+
+Project/ — Unity scenes and scripts
+
+config/ — training configuration files
+
+results/ — outputs and metrics from training
+
+Image.png — representative screenshot
+
+README.md — this file
+
+🚀 How to Run
+
+1. Clone the repository
+
+git clone https://github.com/Filip-Felix/ml_project.git
+
+
+2. Open the project in Unity
+
+3. Configure the ML-Agents settings (version, behavior, parameters)
+
+4. Train the agent (using the appropriate command or training scenario)
+
+5. Check the results in the results folder
