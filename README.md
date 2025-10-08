@@ -2,7 +2,7 @@
 
 Un proiect de machine learning / reinforcement learning care folosește Unity și ML-Agents pentru a controla și menține echilibrul unei bile pe o platformă 3D.
 
-![Captură de ecran](image.png)
+![Captură de ecran](Image.png)
 
 ---
 
