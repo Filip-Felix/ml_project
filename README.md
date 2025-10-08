@@ -13,25 +13,25 @@ The agent (the ball) learns to stay balanced on a tilting platform by applying c
 
 🔍 Key Features
 
-Integration with Unity ML-Agents
+-Integration with Unity ML-Agents
 
-Control policy based on learned behavior
+-Control policy based on learned behavior
 
-Includes training and evaluation scenarios
+-Includes training and evaluation scenarios
 
-Modular project structure (Project, config, etc.)
+-Modular project structure (Project, config, etc.)
 
 📁 Project Structure
 
-Project/ — Unity scenes and scripts
+-Project/ — Unity scenes and scripts
 
-config/ — training configuration files
+-config/ — training configuration files
 
-results/ — outputs and metrics from training
+-results/ — outputs and metrics from training
 
-Image.png — representative screenshot
+-Image.png — representative screenshot
 
-README.md — this file
+-README.md — this file
 
 🚀 How to Run
 
